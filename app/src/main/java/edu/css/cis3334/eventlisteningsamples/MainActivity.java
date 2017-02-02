@@ -16,6 +16,7 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+            // comment here by TEG
         text1 = (EditText) findViewById(R.id.editText1);
 
 

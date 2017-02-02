@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/EventListeningSamples.iml" filepath="$PROJECT_DIR$/EventListeningSamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android-EventListeningSamples.iml" filepath="$PROJECT_DIR$/Android-EventListeningSamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
-
