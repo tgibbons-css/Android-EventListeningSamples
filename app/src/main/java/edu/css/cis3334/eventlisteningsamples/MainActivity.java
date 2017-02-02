@@ -19,7 +19,7 @@ public class MainActivity extends ActionBarActivity {
             // comment here by TEG
         text1 = (EditText) findViewById(R.id.editText1);
 
-
+        text1 = (EditText) findViewById(R.id.editText1);
     }
 
 
